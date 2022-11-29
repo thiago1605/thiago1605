@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Thiago 👋
 
-- 🔭 Atualmente curso Ciência da Computação
+- 🔭 Atualmente cursando Ciência da Computação na UESB
 - 🌱 Estudando React.js com typescript
 
 <div align="center">
