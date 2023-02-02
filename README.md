@@ -15,9 +15,10 @@
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/106389290/204283434-13800a94-8925-4fa9-af39-1cbc3165d6f6.jpg">
-    <img align="center" alt="Thiago-next.js" height="150" style="border-radius: 50px;" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png">
+    <img align="center" alt="Thiago-next.js" height="30" style="border-radius: 50px;" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png">
 </div>
+  <img align="right" alt="Thiago-pic" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/106389290/204283434-13800a94-8925-4fa9-af39-1cbc3165d6f6.jpg">
+  
 
 ##
 
