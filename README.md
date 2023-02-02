@@ -17,7 +17,7 @@
   <img align="center" alt="Thiago-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Thiago-next.js" height="30" style="border-radius: 50px;" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png">
 </div>
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius: 50px;" src="">
+  <img align="right" alt="Thiago-pic" height="150" style="border-radius: 50px;" src="C:\Users\thiag\Pictures\eu.jpg">
   
 
 ##
