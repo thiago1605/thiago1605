@@ -16,7 +16,6 @@
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Thiago-next.js" height="30" style="border-radius: 50px;" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png">
-  <img align="center" alt="Thiago-node.js" height="30" style="border-radius: 50px;" src"https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
 </div>
   <img align="right" alt="Thiago-pic" height="150" style="border-radius: 50px;" src="">
   
