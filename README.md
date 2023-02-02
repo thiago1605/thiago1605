@@ -18,7 +18,7 @@
   <img align="center" alt="Thiago-next.js" height="30" style="border-radius: 50px;" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png">
   <img align="center" alt="Thiago-node.js" height="30" style="border-radius: 50px;" src"https://e7.pngegg.com/pngimages/872/442/png-clipart-node-js-javascript-react-firebase-icon-angle-text.png">
 </div>
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/106389290/204283434-13800a94-8925-4fa9-af39-1cbc3165d6f6.jpg">
+  <img align="right" alt="Thiago-pic" height="150" style="border-radius: 50px;" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
   
 
 ##
