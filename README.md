@@ -1,8 +1,7 @@
-### Olá! Eu sou o Thiago 👋
-
-- 🔭 Atualmente cursando Ciência da Computação na UESB
-- 🌱 Estudando React.js com typescript
-
+### Hi there! I'm Thiago 👋
+- 📚 Currently studying Computer Science at UESB(Universidade Estadual do Sudoeste da Bahia)
+- 👨‍💻 Studying Frontend and Backend development
+- My portfolio website 👉 https://dev-thiago-reis-portfolio.vercel.app/
 <div align="center">
   <a href="https://github.com/thiago1605">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago1605&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
